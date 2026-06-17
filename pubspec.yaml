@@ -1,0 +1,25 @@
+name: developer_card_lift
+description: Beautiful animated developer profile cards for Flutter apps and websites.
+version: 1.0.0
+
+homepage: https://github.com/yourusername/developer_card_lift
+repository: https://github.com/yourusername/developer_card_lift
+issue_tracker: https://github.com/yourusername/developer_card_lift/issues
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.22.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  url_launcher: ^6.3.2
+  font_awesome_flutter: ^10.8.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^6.0.0
+
+flutter:
