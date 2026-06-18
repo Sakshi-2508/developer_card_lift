@@ -4,7 +4,6 @@ A beautiful, modern, and customizable Flutter developer profile card inspired by
 
 Perfect for portfolio apps, developer showcases, resumes, profile pages, and personal branding.
 
-
 ---
 
 ## ✨ Features
@@ -29,7 +28,7 @@ Add the dependency:
 
 ```yaml
 dependencies:
-  developer_card_lift: ^1.0.0
+  developer_card_lift: ^1.0.1
 ```
 
 Run:
@@ -92,7 +91,7 @@ DeveloperCardLift(
 ### Mobile
 
 <p>
-  <img src="assets/images/img-1.png" width="250" alt="Profile Lift Main Screen" />
+  <img src="example/assets/images/img-1.png" width="250" alt="Profile Lift Main Screen" />
 </p>
 
 ---
@@ -153,7 +152,9 @@ https://github.com/Sakshi-2508/developer_card_lift
 
 ## Package
 
-pub.dev:
+pub.dev Package:
 https://pub.dev/packages/developer_card_lift
+
+---
 
 Made with ❤️ using Flutter.
